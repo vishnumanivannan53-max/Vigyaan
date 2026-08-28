@@ -1,1 +1,1 @@
-# SatGPT
+# Vigyaan
